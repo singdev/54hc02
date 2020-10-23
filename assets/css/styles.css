@@ -1,0 +1,381 @@
+.corp {
+  background-image: url("../../assets/img/Woman%20with%20vitiligo%20-%201280x854.jpg?h=f16b6a41dc789f35ecf029b1124b476b");
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.logo {
+  height: 34px;
+  margin-left: 0px;
+  margin-top: 5px;
+}
+
+.lien {
+  margin: 15px 52px;
+}
+
+.title {
+  color: #0f9db7;
+  margin-top: 75px;
+}
+
+@media (min-width: 500px) {
+  .title {
+    color: #0f9db7;
+    margin-top: 175px;
+  }
+}
+
+@media (min-width: 600px) {
+  .title {
+    color: #0f9db7;
+    margin-top: 245px;
+  }
+}
+
+@media (min-width: 900px) {
+  .title {
+    color: #0f9db7;
+    margin-top: 325px;
+    font-size: 50px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .title {
+    color: #0f9db7;
+    margin-top: 405px;
+    font-size: 50px;
+  }
+}
+
+.btn {
+  margin: 25px 110px;
+  border: none;
+}
+
+@media (min-width: 500px) {
+  .btn {
+    margin: 60px 219px;
+    border: none;
+  }
+}
+
+@media (min-width: 700px) {
+  .btn {
+    margin: 15px 317px;
+    border: none;
+  }
+}
+
+@media (min-width: 900px) {
+  .btn {
+    margin: 55px 425px;
+    border: none;
+  }
+}
+
+@media (min-width: 1200px) {
+  .btn {
+    margin: 55px 546px;
+    border: none;
+  }
+}
+
+@media (min-width: 1200px) {
+  .btn {
+    margin: 55px 546px;
+    border: none;
+  }
+}
+
+.title2 {
+}
+
+.para1 {
+  font-size: 9px;
+  margin: 0 25px;
+}
+
+@media (min-width: 700px) {
+  .para1 {
+    font-size: 9px;
+    margin: 0 100px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .para1 {
+    font-size: 9px;
+    margin: 0 230px;
+  }
+}
+
+.formu {
+  margin-top: 252px;
+}
+
+.title3 {
+  color: rgb(255,255,255);
+  padding-top: 17px;
+  margin-bottom: 20px;
+}
+
+.login {
+  background-color: #0e974c;
+  margin-top: 14px;
+}
+
+.search {
+  margin-top: 0px;
+  margin-left: 0px;
+}
+
+.btn2 {
+  margin-top: 1px;
+  margin-left: 129px;
+}
+
+@media (min-width: 500px) {
+  .btn2 {
+    margin-top: 31px;
+    margin-left: 209px;
+  }
+}
+
+@media (min-width: 700px) {
+  .btn2 {
+    margin-top: -17px;
+    margin-left: 209px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .btn2 {
+    margin-top: 11px;
+    margin-left: 209px;
+  }
+}
+
+.carte {
+  background-color: #0e974c;
+}
+
+@media (min-width: 500px) {
+  .carte {
+    background-color: #0e974c;
+    margin: 30px;
+  }
+}
+
+@media (min-width: 300px) {
+  .btn-doc {
+    border: none;
+    margin-bottom: 50px;
+    font-size: 12px;
+    font-weight: 700;
+    margin-left: 100px;
+    margin-top: 0px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .btn-doc {
+    border: none;
+    margin-bottom: 50px;
+    font-size: 12px;
+    font-weight: 700;
+    margin-left: 541px;
+    margin-top: 0px;
+  }
+}
+
+@media (min-width: 900px) {
+  .btn-doc {
+    border: none;
+    margin-bottom: 50px;
+    font-size: 12px;
+    font-weight: 700;
+    margin-left: 429px;
+    margin-top: 0px;
+  }
+}
+
+@media (min-width: 500px) {
+  .btn-doc {
+    border: none;
+    margin-bottom: 50px;
+    font-size: 12px;
+    font-weight: 700;
+    margin-left: 210px;
+    margin-top: -20px;
+  }
+}
+
+@media (min-width: 700px) {
+  .btn-doc {
+    border: none;
+    margin-bottom: 50px;
+    font-size: 12px;
+    font-weight: 700;
+    margin-left: 310px;
+    margin-top: -20px;
+  }
+}
+
+.btn-save {
+  margin-left: 50px;
+}
+
+@media (min-width: 1200px) {
+  .btn-save {
+    margin-left: 120px;
+  }
+}
+
+@media (min-width: 900px) {
+  .btn-save {
+    margin-left: 120px;
+  }
+}
+
+@media (min-width: 700px) {
+  .btn-save {
+    margin-left: 120px;
+  }
+}
+
+@media (min-width: 500px) {
+  .btn-save {
+    margin-left: 120px;
+  }
+}
+
+.description {
+  font-size: 8px;
+  font-weight: 200;
+  margin-left: 13px;
+}
+
+.utility {
+  margin-top: 20px;
+}
+
+@media (min-width: 500px) {
+  .utility {
+    margin-top: 20px;
+  }
+}
+
+.profile-card {
+  background-color: #dddddd;
+}
+
+.profile-bio {
+  font-size: 12px;
+  padding-left: 45px;
+}
+
+.infos-medical {
+  font-size: 12px;
+}
+
+@media (min-width: 900px) {
+  .infos-medical {
+    font-size: 12px;
+    margin-left: 45px;
+    margin-top: 20px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .infos-medical {
+    font-size: 12px;
+    margin-left: 205px;
+    margin-top: 20px;
+  }
+}
+
+.historique {
+  margin-top: -30px;
+}
+
+.carte {
+  margin-top: 10px;
+}
+
+.title-profil {
+  color: white;
+  margin-top: -91px;
+}
+
+@media (min-width: 300px) {
+  .utile {
+    margin-left: -3px;
+  }
+}
+
+.recherche {
+  margin-top: 22px;
+}
+
+.search-form {
+  margin-top: 10px;
+}
+
+@media (min-width: 700px) {
+  .search-form {
+    margin-top: 10px;
+    margin-right: -180px;
+  }
+}
+
+@media (min-width: 900px) {
+  .search-form {
+    margin-top: 10px;
+    margin-right: 30px;
+  }
+}
+
+@media (min-width: 500px) {
+  .solution {
+    margin-top: -50px;
+  }
+}
+
+@media (min-width: 700px) {
+  .solution {
+    margin-top: 100px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .solution {
+    margin-top: 130px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .btn3 {
+    margin-left: 510px;
+    margin-top: 30px;
+  }
+}
+
+@media (min-width: 500px) {
+  .search-bar {
+    margin-left: 10px;
+  }
+}
+
+@media (min-width: 900px) {
+  .card-group.thumbail {
+    margin-left: 50px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .menu {
+  }
+}
+
