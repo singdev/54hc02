@@ -1,23 +1,26 @@
 .profile-back {
-  background-color: #0f9db7;
-  height: 150px;
-  margin-bottom: -75px;
+  background-color: #0e974c;
+  height: 860px;
+  width: 1000px;
+  margin-left: 100px;
+  /*border-radius: 50px;*/
 }
 
 .profile-pic {
   width: 150px;
   height: 150px;
   margin-bottom: 10px;
+  margin-top: 40px;
 }
 
 .profile-card {
   text-align: center;
   margin-bottom: 15px;
-  border: 1px solid #0f9db7;
+  /*border: 1px solid #9b1f1f;*/
 }
 
 .profile-name {
-  background-color: #0f9db7;
+  background-color: #0e974c;
   color: #fff;
   font-family: 'Actor', sans-serif;
   font-size: 16px;
@@ -45,19 +48,21 @@
 
 .profile-bio {
   margin-bottom: 10px;
-  padding: 10px 65px;
-  width: 300px;
+  padding: 20px 130px;
 }
 
 .profile-card .social-list li i {
-  background-color: #0f9db7;
+  background-color: #9b1f1f;
   color: #fff;
   padding: 10px 11px;
   border-radius: 100%;
 }
 
-.infos-medical {
-  padding: 4px 30px;
-  font-size: 14px;
+.contenu {
+  width: 600px;
+  background-color: white;
+  margin-top: 50px;
+  border-radius: 10px;
+  height: 780px;
 }
 
